@@ -27,7 +27,7 @@ This tool is to scrape members from targeted groups and to add them into your ow
 3. Create your API_ID and API_HASH here: https://my.telegram.org/auth
 4. Paste your API_ID and API_HASH to credentials.py (open credentials with notepad or text editor)
 5. You are ready to GO! Open cmd and type: 
-> python main.py
+> python main.pyc
 6. Make sure to watch the tutorial video: https://www.youtube.com/watch?v=MIge995Rq
 ***
 
