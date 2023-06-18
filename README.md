@@ -2,21 +2,22 @@
 ## Multi-Tool Project For Telegram By TGToolsFree
 This tool is to scrape members from targeted groups and to add them into your own group.
 
-# Version 1.56
+# Version 1.57
 
 ![giphy](https://user-images.githubusercontent.com/118540164/203226968-5e426f3a-7124-4750-b6f5-63ffcb36eabb.gif)
 
 ***
 ### Whats so special about this?
 1. This tool is the first tool, which can scrape more than 10k members at once!
-2. Add the scraped members to your group / channel!
-3. Multi-Account feature is supported!
-4. Account switches at wish!
-5. Possible on public and private groups / channels!
-6. The tool is auto-updating, you're always on the latest version!
-7. Easy to install and to use!
-8. More features will be added soon!
-9. And most importantly: IT'S FREE!
+2. You can also scrape hidden members!
+3. Add the scraped members to your group / channel!
+4. Multi-Account feature is supported!
+5. Account switches at wish!
+6. Possible on public and private groups / channels!
+7. The tool is auto-updating, you're always on the latest version!
+8. Easy to install and to use!
+9. More features will be added soon!
+10. And most importantly: IT'S FREE!
 ***
 
 ***
