@@ -7,13 +7,13 @@ INSTALLATION:
     Paste your API_ID and API_HASH to credentials.py (open credentials with notepad or text editor)
 
 HOW TO RUN THE APP:
-1.) Open cmd and type python main.py
+1.) Open cmd and type python main.pyc
 2.) Login the accounts with the first option. (Multiple accounts are possible)
 3.) Scrape a group of your choice (Will be saved into teammember.csv)
 4.) Add the scraped members to your own group.
     After finishing, scrape a group again.
 
-IMPORTANT: DONT TOUCH THE NUMBERS FILE! IF YOU WANT TO DELETE ACCOUNTS FROM THE APP THEN USE THE DELETE FUNCTION FROM THE main.pyc APP!
+IMPORTANT: DONT TOUCH THE NUMBERS AND NUMBERS_BACKUP FILE! IF YOU WANT TO DELETE ACCOUNTS FROM THE APP THEN USE THE DELETE FUNCTION FROM THE main.pyc APP!
 
 For any support, bug-fixes or suggestions for more features contact tg: @SubAdder
 More features will be added soon
