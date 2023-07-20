@@ -35,9 +35,9 @@ This tool is to scrape members from targeted groups and to add them into your ow
 Follow us on Telegram: https://t.me/TGToolsFree For bug-reports, help or wishes for future features, feel free to contact us on Telegram: https://t.me/SubAdder
 ***
 ### ❤️ Feel free to support us with donations so we can continue this project with our amazing community ❤️
-BTC: bc1qy9sq9m86cr8r6jg8qrpk7czknxdt4nvn06xzrr
-ETH: 0x348AEAF446ee38fA168045f897206381831c5a9B
-DOGE: D5vrWmxSqctx4LzX8Q5ApAqFM5MuxbXPUq
-
+1. BTC: bc1qy9sq9m86cr8r6jg8qrpk7czknxdt4nvn06xzrr
+2. ETH: 0x348AEAF446ee38fA168045f897206381831c5a9B
+3. DOGE: D5vrWmxSqctx4LzX8Q5ApAqFM5MuxbXPUq
+***
 ##### Please ⭐ the repo to support our project
 ![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
