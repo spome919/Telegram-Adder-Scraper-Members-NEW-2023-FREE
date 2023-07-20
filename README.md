@@ -38,6 +38,6 @@ Follow us on Telegram: https://t.me/TGToolsFree For bug-reports, help or wishes 
 BTC: bc1qy9sq9m86cr8r6jg8qrpk7czknxdt4nvn06xzrr
 ETH: 0x348AEAF446ee38fA168045f897206381831c5a9B
 DOGE: D5vrWmxSqctx4LzX8Q5ApAqFM5MuxbXPUq
-***
-##### Please ⭐ the repo to support my project
+
+##### Please ⭐ the repo to support our project
 ![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
