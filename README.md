@@ -29,7 +29,7 @@ This tool is to scrape members from targeted groups and to add them into your ow
 4. Paste your API_ID and API_HASH to credentials.py (open credentials with notepad or text editor)
 5. You are ready to GO! Open cmd and type: 
 > python main.pyc
-6. Make sure to watch the tutorial video: [https://www.youtube.com/watch?v=MIge995Rq](https://www.youtube.com/watch?v=MIge995RqEQ)
+6. Make sure to watch the tutorial video: https://www.youtube.com/watch?v=MIge995RqEQ
 ***
 
 Follow us on Telegram: https://t.me/TGToolsFree For bug-reports, help or wishes for future features, feel free to contact us on Telegram: https://t.me/SubAdder
