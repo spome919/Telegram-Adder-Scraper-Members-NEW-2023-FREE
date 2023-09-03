@@ -2,7 +2,7 @@
 ## Multi-Tool Project For Telegram By TGToolsFree
 This tool is to scrape members from targeted groups and to add them into your own group.
 
-# Version 1.611
+# Version 1.612
 
 ![giphy](https://user-images.githubusercontent.com/118540164/203226968-5e426f3a-7124-4750-b6f5-63ffcb36eabb.gif)
 
@@ -16,10 +16,11 @@ This tool is to scrape members from targeted groups and to add them into your ow
 6. Multi-Api for more safety!
 7. Possible on public and private groups / channels!
 8. Scraped members list automatically updates after adding members!
-9. The tool is auto-updating, you're always on the latest version!
-10. Easy to install and to use!
-11. More features will be added soon!
-12. And most importantly: IT'S FREE!
+9. Add random delays between each invitation!
+10. The tool is auto-updating, you're always on the latest version!
+11. Easy to install and to use!
+12. More features will be added soon!
+13. And most importantly: IT'S FREE!
 ***
 
 ***
