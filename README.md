@@ -2,7 +2,7 @@
 ## Multi-Tool Project For Telegram By TGToolsFree
 This tool is to scrape members from targeted groups and to add them into your own group.
 
-# Version 1.614
+# Version 1.615
 
 ![giphy](https://user-images.githubusercontent.com/118540164/203226968-5e426f3a-7124-4750-b6f5-63ffcb36eabb.gif)
 
@@ -29,7 +29,7 @@ This tool is to scrape members from targeted groups and to add them into your ow
 2. Open cmd and install the requirements with this command:
 > pip install -r requirements.txt
 3. Create your API_ID and API_HASH here: https://my.telegram.org/auth
-4. Paste your API_ID and API_HASH to credentials.csv (open credentials with notepad or text editor) Format needs to be the same as 'credentials example.csv'
+4. Paste your API_ID and API_HASH to credentials.txt (open credentials with notepad or text editor) Format needs to be the same as 'credentials_example.txt'
 5. You are ready to GO! Open cmd and type: 
 > python main.pyc
 6. Make sure to watch the tutorial video: https://www.youtube.com/watch?v=MIge995RqEQ
@@ -41,6 +41,7 @@ Follow us on Telegram: https://t.me/TGToolsFree For bug-reports, help or wishes 
 1. BTC: bc1qy9sq9m86cr8r6jg8qrpk7czknxdt4nvn06xzrr
 2. ETH: 0x348AEAF446ee38fA168045f897206381831c5a9B
 3. DOGE: D5vrWmxSqctx4LzX8Q5ApAqFM5MuxbXPUq
+4. USDT-TRC20: TDXQ2WE2rZoiqksBUvQMnVvSvear8v8aom
 ***
 ##### Please ⭐ the repo to support our project
 ![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
