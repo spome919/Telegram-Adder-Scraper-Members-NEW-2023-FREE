@@ -2,7 +2,7 @@
 ## Multi-Tool Project For Telegram By TGToolsFree
 This tool is to scrape members from targeted groups and to add them into your own group.
 
-# Version 1.630
+# Version 1.631
 
 ![giphy](https://user-images.githubusercontent.com/118540164/203226968-5e426f3a-7124-4750-b6f5-63ffcb36eabb.gif)
 
@@ -25,7 +25,7 @@ This tool is to scrape members from targeted groups and to add them into your ow
 
 ***
 ### TUTORIAL
-1. Install Python: https://www.python.org/downloads/
+1. Install Python version 3.12: https://www.python.org/downloads/
 2. Open cmd and install the requirements with this command:
 > pip install -r requirements.txt
 3. Create your API_ID and API_HASH here: https://my.telegram.org/auth
