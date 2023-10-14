@@ -25,7 +25,7 @@ This tool is to scrape members from targeted groups and to add them into your ow
 
 ***
 ### TUTORIAL
-1. Install Python version 3.12: https://www.python.org/downloads/
+1. Install Python version 3.12: https://www.python.org/downloads/ (While installing, make sure to check the option: Add to PATH)
 2. Open cmd and install the requirements with this command:
 > pip install -r requirements.txt
 3. Create your API_ID and API_HASH here: https://my.telegram.org/auth
